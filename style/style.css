@@ -7,5 +7,15 @@
 }
 
 /* Reusable Style  */
+.honda-btn {
+  background-color: #e76f51;
+  color: #fff;
+  width: 168px;
+  height: 44px;
+}
+/* custome css */
+.hero-bg {
+  background-color: #264653;
+}
 
 /*  Customize Bootstrap */
