@@ -41,8 +41,8 @@ body {
   border-radius: 50%;
 }
 .faq-img {
-  width: 430px;
-  height: 425px;
+  width: 80%;
+  height: auto;
 }
 /*  Customize Bootstrap */
 .accordion-button {
