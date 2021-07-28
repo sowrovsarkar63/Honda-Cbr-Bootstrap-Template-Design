@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;900&display=swap");
 
 /* Global Style  */
-.body {
+body {
   font-family: "Poppins", sans-serif;
 }
 
@@ -18,7 +18,7 @@
 }
 .heading-text {
   font-weight: 600;
-  font-size: 48px;
+  font-size: 38px;
   line-height: 72px;
 }
 /* custome css */
@@ -32,5 +32,12 @@
 .hero-bg {
   background-color: #264653;
 }
+.profile {
+  width: 149px;
+  height: 149px;
+}
 
+.profile img {
+  border-radius: 50%;
+}
 /*  Customize Bootstrap */
