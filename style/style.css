@@ -36,6 +36,9 @@ body {
   width: 149px;
   height: 149px;
 }
+.card-rating span {
+  color: #e76f51;
+}
 
 .profile img {
   border-radius: 50%;
